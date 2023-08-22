@@ -13,7 +13,7 @@ $(document).ready(function(){
                 breakpoint: 1200,
                 settings: {
                     slidesToShow: 1,
-                    
+                    slidesToScroll: 1,
                   infinite: true,
                   dots: true,
                   infinite: true,
